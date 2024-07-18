@@ -11,7 +11,7 @@ In this tutorial, you will learn:
 
 ## Video Tutorial
 
-Watch the full video tutorial here: [Video Tutorial Link](#) *(https://www.youtube.com/watch?v=dV7JuGanu50)*
+Watch the full video tutorial here: [Video Tutorial Link]([#](https://www.youtube.com/watch?v=dV7JuGanu50)) *(https://www.youtube.com/watch?v=dV7JuGanu50)*
 
 ## Getting Started
 
